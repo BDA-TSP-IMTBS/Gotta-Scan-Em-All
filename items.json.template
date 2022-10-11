@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": 1, //Incrémenter de 1 à chaque nouvel item
+      "title": "Morgane", // Nom de la carte
+      "subtitle": "Pr\u00e9sidente", // Fonction au sein du BDA
+      "hasImage": true, // true s'il y a une image associée, a priori oui
+      "hasQuestion": true, // true s'il y a une question associée, a priori oui
+      "question": "Quel est le nom de la mascotte du BDA ?", // énoncé de la question
+      "answers": [
+        "Pavlov",
+        "Hercule",
+        "Youyou",
+        "Boris"
+      ], // Liste des 4 réponses possibles
+      "correctAnswer": 3, // Indice de la seule bonne réponse
+      "pointsMax": 50, // Points accordés en cas de bonne réponse
+      "pointsMin": 10, // points accordés en cas de mauvaise réponse pour récompenser la recherche
+      "slug": "" // Url de la carte, ne pas toucher c'est généré automatiquement
+    },
+
+    {
+      "id": 2, //Incrémenter de 1 à chaque nouvel item
+      "title": "Théo", // Nom de la carte
+      "subtitle": "VP", // Fonction au sein du BDA
+      "hasImage": true, // true s'il y a une image associée, a priori oui
+      "hasQuestion": true, // true s'il y a une question associée, a priori oui
+      "question": "Quelle est la meilleure maison dans Harry Potter", // énoncé de la question
+      "answers": [
+        "Gryffondor",
+        "Poufsouffle",
+        "Serdaigle",
+        "Serpentard"
+      ], // Liste des 4 réponses possibles
+      "correctAnswer": 1, // Indice de la seule bonne réponse
+      "pointsMax": 50, // Points accordés en cas de bonne réponse
+      "pointsMin": 10, // points accordés en cas de mauvaise réponse pour récompenser la recherche
+      "slug": "" // Url de la carte, ne pas toucher c'est généré automatiquement
+    },
+
+    //...
+  ]
+}
