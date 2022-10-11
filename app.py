@@ -9,6 +9,7 @@ import secrets
 import mysql.connector
 import json
 import re
+import os
 
 app = Flask(__name__)
 
@@ -17,7 +18,7 @@ app = Flask(__name__)
 app.secret_key = 'your secret key'
 
 # Enter your database connection details below
-app.config['MYSQL_HOST'] = 'db'
+app.config['MYSQL_HOST'] = os.getenv('DB_HOST', 'db')
 app.config['MYSQL_USER'] = 'root'
 app.config['MYSQL_PASSWORD'] = 'root'
 app.config['MYSQL_DB'] = 'pythonlogin'
