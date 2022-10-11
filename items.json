@@ -5,17 +5,10 @@
       "title": "Morgane",
       "subtitle": "Pr\u00e9sidente",
       "hasImage": true,
-      "imagePath": [
-        "1.png"
-      ],
+      "imagePath": ["1.png"],
       "hasQuestion": true,
       "question": "Quel est le nom de la mascotte du BDA ?",
-      "answers": [
-        "Pavlov",
-        "Hercule",
-        "Youyou",
-        "Boris"
-      ],
+      "answers": ["Pavlov", "Hercule", "Youyou", "Boris"],
       "correctAnswer": 3,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -26,18 +19,10 @@
       "title": "C\u00e9line et Th\u00e9o",
       "subtitle": "Vice-pr\u00e9sidents",
       "hasImage": true,
-      "imagePath": [
-        "2.png",
-        "2bis.png"
-      ],
+      "imagePath": ["2.png", "2bis.png"],
       "hasQuestion": true,
       "question": "Qui est le meilleur VP du BDA ?",
-      "answers": [
-        "Lo\u00efs",
-        "Alix",
-        "Th\u00e9o",
-        "C\u00e9line"
-      ],
+      "answers": ["Lo\u00efs", "Alix", "Th\u00e9o", "C\u00e9line"],
       "correctAnswer": 1,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -48,10 +33,7 @@
       "title": "Rafa\u00ebl et Bilal",
       "subtitle": "Tr\u00e9sorier et Vice-tr\u00e9sorier",
       "hasImage": true,
-      "imagePath": [
-        "3.png",
-        "3bis.png"
-      ],
+      "imagePath": ["3.png", "3bis.png"],
       "hasQuestion": true,
       "question": "Combien de personnes \u00e0 la soir\u00e9e BDAxASINT ?",
       "answers": [
@@ -70,9 +52,7 @@
       "title": "Chlo\u00e9",
       "subtitle": "Secr\u00e9taire",
       "hasImage": true,
-      "imagePath": [
-        "4.png"
-      ],
+      "imagePath": ["4.png"],
       "hasQuestion": true,
       "question": "Combien de temps les ecocups sont rest\u00e9es \u00e0 l\u2019imprimerie sachant que Chlo\u00e9 appelait tous les jours les fournisseurs pour savoir o\u00f9 elles \u00e9taient ?",
       "answers": [
@@ -91,18 +71,10 @@
       "title": "Sarah Z. et Sarah C.",
       "subtitle": "Respo Communication et p\u00f4le Communication",
       "hasImage": true,
-      "imagePath": [
-        "5.png",
-        "5bis.png"
-      ],
+      "imagePath": ["5.png", "5bis.png"],
       "hasQuestion": true,
       "question": "Pendant la campagne, combien de Sarah comprenait le p\u00f4le Sarah ?",
-      "answers": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
+      "answers": ["1", "2", "3", "4"],
       "correctAnswer": 3,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -113,18 +85,10 @@
       "title": "Angel et Claire",
       "subtitle": "? et Mascotte",
       "hasImage": true,
-      "imagePath": [
-        "6.png",
-        "6bis.png"
-      ],
+      "imagePath": ["6.png", "6bis.png"],
       "hasQuestion": true,
       "question": "Angel, apr\u00e8s avoir postul\u00e9 Relation Artistique (RA), VP et prez est devenu...",
-      "answers": [
-        "Communication",
-        "RA",
-        "Prez",
-        "VP"
-      ],
+      "answers": ["Communication", "RA", "Prez", "VP"],
       "correctAnswer": 0,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -135,10 +99,7 @@
       "title": "Ahmed et Iris",
       "subtitle": "Co-Respos Multimedia",
       "hasImage": true,
-      "imagePath": [
-        "7.png",
-        "7bis.png"
-      ],
+      "imagePath": ["7.png", "7bis.png"],
       "hasQuestion": true,
       "question": "Plut\u00f4t ?",
       "answers": [
@@ -157,17 +118,10 @@
       "title": "Julien R. et Cl\u00e9ment",
       "subtitle": "Co-Respos Web",
       "hasImage": true,
-      "imagePath": [
-        "8bis.png"
-      ],
+      "imagePath": ["8bis.png"],
       "hasQuestion": true,
       "question": "Quel est le p\u00f4le qui a accueilli moins de 8 candidats durant la campagne de l\u2019ann\u00e9e derni\u00e8re ?",
-      "answers": [
-        "Tr\u00e9so",
-        "Animation",
-        "RA",
-        "Web"
-      ],
+      "answers": ["Tr\u00e9so", "Animation", "RA", "Web"],
       "correctAnswer": 3,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -178,9 +132,7 @@
       "title": "Brieuc et Tritan",
       "subtitle": "Respo Soir\u00e9e et P\u00f4le Soir\u00e9e",
       "hasImage": true,
-      "imagePath": [
-        "9.png"
-      ],
+      "imagePath": ["9.png"],
       "hasQuestion": true,
       "question": "Quel est le th\u00e8me de la Soir\u00e9e BDA de l\u2019ann\u00e9e derni\u00e8re",
       "answers": [
@@ -199,18 +151,10 @@
       "title": "Basile et Julien J.",
       "subtitle": "Respo Animation et P\u00f4le Animation",
       "hasImage": true,
-      "imagePath": [
-        "10.png",
-        "10bis.png"
-      ],
+      "imagePath": ["10.png", "10bis.png"],
       "hasQuestion": true,
       "question": "Qui a voulu lanc\u00e9 la R\u00e9volution Anticapitaliste Antiraciste F\u00e9ministe et \u00c9cologique dans son offrande Animation ?",
-      "answers": [
-        "Basile",
-        "Julien J.",
-        "Thais",
-        "Sarah Z"
-      ],
+      "answers": ["Basile", "Julien J.", "Thais", "Sarah Z"],
       "correctAnswer": 2,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -221,10 +165,7 @@
       "title": "Yassine et Kanita",
       "subtitle": "DD et Tentures",
       "hasImage": true,
-      "imagePath": [
-        "11.png",
-        "11bis.png"
-      ],
+      "imagePath": ["11.png", "11bis.png"],
       "hasQuestion": true,
       "question": "Quel est le nombre de tentures en bordel pr\u00e9sentes dans le local bda au d\u00e9but de l'ann\u00e9e ?",
       "answers": [
@@ -243,18 +184,10 @@
       "title": "Eloi et Gregoire",
       "subtitle": "Respo et P\u00f4le Secu-logi",
       "hasImage": true,
-      "imagePath": [
-        "12.png",
-        "12bis.png"
-      ],
+      "imagePath": ["12.png", "12bis.png"],
       "hasQuestion": true,
       "question": "Les enceintes du club Zik appartiennent :",
-      "answers": [
-        "Au club zik",
-        "A l'ASINT",
-        "Au BDA",
-        "A Ahmed"
-      ],
+      "answers": ["Au club zik", "A l'ASINT", "Au BDA", "A Ahmed"],
       "correctAnswer": 2,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -265,9 +198,9 @@
       "title": "Charlie et Lou-Anne",
       "subtitle": "Respo et P\u00f4le Pr\u00e9vention",
       "hasImage": true,
-      "imagePath": [
-        "13.png"
-      ],
+      "imagePath": ["13.png"],
+      "pointsMax": 50,
+      "pointsMin": 10,
       "hasQuestion": false,
       "slug": "qS4LXJrHFFKTSFmT"
     },
@@ -276,18 +209,10 @@
       "title": "Thais et Zelie",
       "subtitle": "Co-Respos Festivit\u00e9s",
       "hasImage": true,
-      "imagePath": [
-        "14.png",
-        "14bis.PNG"
-      ],
+      "imagePath": ["14.png", "14bis.PNG"],
       "hasQuestion": true,
       "question": "Qui est la reine de la SLAAAAYYYY au BDA ?",
-      "answers": [
-        "Thais",
-        "Angel",
-        "Sarah Z.",
-        "Kanita"
-      ],
+      "answers": ["Thais", "Angel", "Sarah Z.", "Kanita"],
       "correctAnswer": 3,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -298,18 +223,10 @@
       "title": "Simon et Myriam",
       "subtitle": "Respo SWEI et P\u00f4le Festivit\u00e9s",
       "hasImage": true,
-      "imagePath": [
-        "15.png",
-        "15bis.png"
-      ],
+      "imagePath": ["15.png", "15bis.png"],
       "hasQuestion": true,
       "question": "Combien faut-il de temps au Club-Zik pour pr\u00e9parer une chanson pour la sc\u00e8ne ouverte ?",
-      "answers": [
-        "1 jour",
-        "2 jours",
-        "3 jours",
-        "4 jours"
-      ],
+      "answers": ["1 jour", "2 jours", "3 jours", "4 jours"],
       "correctAnswer": 0,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -320,10 +237,7 @@
       "title": "Juliette et Quentin",
       "subtitle": "Co-Respo Relations Artistiques",
       "hasImage": true,
-      "imagePath": [
-        "16.png",
-        "16bis.png"
-      ],
+      "imagePath": ["16.png", "16bis.png"],
       "hasQuestion": false,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -334,10 +248,7 @@
       "title": "Marie et M\u00e9lanie",
       "subtitle": "Respo et P\u00f4le Relations Entreprises",
       "hasImage": true,
-      "imagePath": [
-        "17.png",
-        "17bis.png"
-      ],
+      "imagePath": ["17.png", "17bis.png"],
       "hasQuestion": false,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -348,10 +259,7 @@
       "title": "Marceau et Sarah D.",
       "subtitle": "P\u00f4le Relations Entreprises et Relation Externes",
       "hasImage": true,
-      "imagePath": [
-        "18.PNG",
-        "18bis.png"
-      ],
+      "imagePath": ["18.PNG", "18bis.png"],
       "hasQuestion": false,
       "pointsMax": 50,
       "pointsMin": 10,
@@ -362,10 +270,7 @@
       "title": "Lousie et Rizl\u00e8ne",
       "subtitle": "Relations Internes et Relations Clubs",
       "hasImage": true,
-      "imagePath": [
-        "19.png",
-        "19bis.png"
-      ],
+      "imagePath": ["19.png", "19bis.png"],
       "hasQuestion": false,
       "pointsMax": 50,
       "pointsMin": 10,
