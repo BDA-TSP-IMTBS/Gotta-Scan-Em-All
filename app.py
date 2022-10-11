@@ -19,9 +19,9 @@ app.secret_key = 'your secret key'
 
 # Enter your database connection details below
 app.config['MYSQL_HOST'] = os.getenv('DB_HOST', 'db')
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'root'
-app.config['MYSQL_DB'] = 'pythonlogin'
+app.config['MYSQL_USER'] = os.getenv('DB_USER', 'root')
+app.config['MYSQL_PASSWORD'] = os.getenv('DB_PASSWORD', 'root')
+app.config['MYSQL_DB'] = os.getenv('DB_DB', 'pythonlogin')
 app.config['MYSQL_PORT'] = 3306
 
 # Intialize MySQL
