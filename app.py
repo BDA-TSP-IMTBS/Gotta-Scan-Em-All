@@ -143,7 +143,7 @@ def profile():
 
 
 # Items page
-@app.route('/items/<string:slug>')
+@app.route('/<string:slug>')
 def seeItem(slug):
     if 'loggedin' in session:
         slugList = [item["slug"] for item in items]
