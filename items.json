@@ -2,171 +2,195 @@
   "items": [
     {
       "id": 1,
-      "title": "Aries",
-      "subtitle": "\u2648 B\u00e9lier",
+      "title": "Le Billard",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/1-Aries.png"],
+      "imagePath": [
+        "1.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "OePz1yTksm1v2h2T"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "ldf3epZkqNxIFje3"
     },
     {
       "id": 2,
-      "title": "Taurus",
-      "subtitle": "\u2649 Taureau",
+      "title": "Boris",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/2-Taurus.png"],
+      "imagePath": [
+        "2.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "gWjxAURcDO9OoTnF"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "uS2AXcd6Er94rNJJ"
     },
     {
       "id": 3,
-      "title": "Gemini",
-      "subtitle": "\u264a G\u00e9meaux",
+      "title": "Le surnom I",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/3-Gemini.png"],
+      "imagePath": [
+        "3.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "KJeMW6AX2gVt3ybX"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "bcZKdi1lbY7MJLLk"
     },
     {
       "id": 4,
-      "title": "Cancer",
-      "subtitle": "\u264b Cancer",
+      "title": "Les toilettes petite salle",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/4-Cancer.png"],
+      "imagePath": [
+        "4.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "E4OGTSwYnveArksg"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "6yfLG4TsBNDJIhcu"
     },
     {
       "id": 5,
-      "title": "Leo",
-      "subtitle": "\u264c Lion",
+      "title": "La batterie du CZ",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/5-Leo.png"],
+      "imagePath": [
+        "5.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "nNwpmGxuSWr0lyLr"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "oxyBYwN5UF2lc4Hk"
     },
     {
       "id": 6,
-      "title": "Virgo",
-      "subtitle": "\u264d Vierge",
+      "title": "Le parquet",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/6-Virgo.png"],
+      "imagePath": [
+        "6.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "nhny7yHWBsDHBZHa"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "Hje1FjyVk3QQrx07"
     },
     {
       "id": 7,
-      "title": "Libra",
-      "subtitle": "\u264e Balance",
+      "title": "La polyvalence I",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/7-Libra.png"],
+      "imagePath": [
+        "7.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "FDTlHwcN5I9H2kXk"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "O9tnZEaEFn3gO8Lh"
     },
     {
       "id": 8,
-      "title": "Scorpio",
-      "subtitle": "\u264f Scorpion",
+      "title": "Une photo pipou",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/8-Scorpio.png"],
+      "imagePath": [
+        "8.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "XIfgcvNthcAOgsir"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "PPwIn4ImPZWguajW"
     },
     {
       "id": 9,
-      "title": "Sagittarius",
-      "subtitle": "\u2650 Sagittaire",
+      "title": "BDARTC",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/9-Sagittarius.png"],
+      "imagePath": [
+        "9.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "pAuPU8C3d56OTJU8"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "5ek6KCSnpM5n2l6t"
     },
     {
       "id": 10,
-      "title": "Capricorn",
-      "subtitle": "\u2651 Capricorne",
+      "title": "Le mur",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/10-Capricorn.png"],
+      "imagePath": [
+        "10.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "gWvgf59yCxdBi2Px"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "e4IDwb1WQaGruSJa"
     },
     {
       "id": 11,
-      "title": "Aquarius",
-      "subtitle": "\u2652 Verseau",
+      "title": "Le surnom II",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/11-Aquarius.png"],
+      "imagePath": [
+        "11.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "3hbGXm0zGM0jC7dc"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "xGMufbQRRYEcZuyz"
     },
     {
       "id": 12,
-      "title": "Pisces",
-      "subtitle": "\u2653 Poissons",
+      "title": "Ratio + Pipou",
+      "subtitle": "",
       "hasImage": true,
-      "imagePath": ["pictures/12-Pisces.png"],
+      "imagePath": [
+        "12.png"
+      ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "PTSt3BRLmBAWyig1"
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "9fTa3sklA07Ed1oM"
     }
   ]
 }
