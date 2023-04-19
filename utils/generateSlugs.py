@@ -3,7 +3,7 @@ import random, string
 
 # This program creates random 16 characters slug to append to the url of the QR codes to find
 
-with open("./items.json", "r") as f:
+with open("../app/items.json", "r") as f:
   data = json.load(f)
 
 for i in range(len(data['items'])):

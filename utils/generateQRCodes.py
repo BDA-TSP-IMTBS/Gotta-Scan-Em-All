@@ -7,7 +7,7 @@ from pyqrcode import QRCode
 
 DEFAULT_URL = "https://apero-bda.hackademint.org/"
 
-with open("./items.json", "r") as f:
+with open("../app/items.json", "r") as f:
   data = json.load(f)
 
 for i in range(len(data['items'])):
