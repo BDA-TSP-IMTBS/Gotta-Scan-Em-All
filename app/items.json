@@ -191,6 +191,22 @@
       "pointsMax": 10,
       "pointsMin": 10,
       "slug": "9fTa3sklA07Ed1oM"
+    },
+    {
+      "id": 13,
+      "title": "Au revoir",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "12.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 10,
+      "pointsMin": 10,
+      "slug": "9fTa3sklA07Ed1oM"
     }
   ]
 }
