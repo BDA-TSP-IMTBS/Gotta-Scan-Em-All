@@ -5,7 +5,7 @@ from pyqrcode import QRCode
 
 # This program generates QR codes from slugs
 
-DEFAULT_URL = "http://172.18.0.3:5000/" # "https://apero-bda.hackademint.org/"
+DEFAULT_URL = "https://apero-bda.hackademint.org/"
 
 with open("../app/items.json", "r") as f:
   data = json.load(f)
