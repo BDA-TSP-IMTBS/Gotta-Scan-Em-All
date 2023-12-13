@@ -1,12 +1,11 @@
 import json
 import random, string
 import pyqrcode
-import png
 from pyqrcode import QRCode
 
 # This program generates QR codes from slugs
 
-DEFAULT_URL = "https://marche-de-noel.bda-tmsp.fr/"
+DEFAULT_URL = "https://apero-bda.hackademint.org/"
 
 with open("../app/items.json", "r") as f:
   data = json.load(f)

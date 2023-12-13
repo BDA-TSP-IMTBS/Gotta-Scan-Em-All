@@ -126,6 +126,5 @@ Puis lancez le script.
 
 ```bash
 pip install PyQRCode
-pip install pypng
 python3 ./utils/generateQRCodes.py
 ```
