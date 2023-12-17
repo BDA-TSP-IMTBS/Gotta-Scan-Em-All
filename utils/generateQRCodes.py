@@ -5,7 +5,7 @@ from pyqrcode import QRCode
 
 # This program generates QR codes from slugs
 
-DEFAULT_URL = "https://marche-de-noel.BDA.h.minet.net/"
+DEFAULT_URL = "https://marche-de-noel.bda-tmsp.h.minet.net/"
 
 with open("../app/items.json", "r") as f:
   data = json.load(f)
