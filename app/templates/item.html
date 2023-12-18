@@ -5,14 +5,14 @@ block content %}
   <h2>{{item["subtitle"]}}</h2>
   {% if item["hasImage"] %} {% for src in item["imagePath"] %}
   <figure>
-    <img src="{{url_for('static', filename='cards/apero/' + src)}}" />
+    <img src="{{url_for('static', filename='cards/pokemon/' + src)}}" />
   </figure>
   {% endfor %} {% endif %}
   <div>
     {% if hasAlreadySeen %}
-    <p>Tu m'as déjà trouvée</p>
+    <p>Déjà trouvé</p>
     {% else %}
-    <p>Première rencontre !</p>
+    <p>Nouveau cadeau !</p>
     {% endif %}
   </div>
 </div>

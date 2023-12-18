@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "title": "Le Billard",
+      "title": "Stand 1",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -12,13 +12,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "ldf3epZkqNxIFje3"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "Av5UISslV5PUv4KS"
     },
     {
       "id": 2,
-      "title": "Boris",
+      "title": "Stand 2",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -28,13 +28,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "uS2AXcd6Er94rNJJ"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "9kX17gdG3gKU3JLu"
     },
     {
       "id": 3,
-      "title": "Le surnom I",
+      "title": "Stand 3",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -44,13 +44,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "bcZKdi1lbY7MJLLk"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "GaGLyxWYTubos04q"
     },
     {
       "id": 4,
-      "title": "Les toilettes petite salle",
+      "title": "Stand 4",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -60,13 +60,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "6yfLG4TsBNDJIhcu"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "kPXZcDfp7WoPWpce"
     },
     {
       "id": 5,
-      "title": "La batterie du CZ",
+      "title": "Stand 5",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -76,13 +76,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "oxyBYwN5UF2lc4Hk"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "WNtihRkqHBGSi2iD"
     },
     {
       "id": 6,
-      "title": "Le parquet",
+      "title": "Stand 6",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -92,13 +92,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "Hje1FjyVk3QQrx07"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "sEP4wSKwnvC6qFeG"
     },
     {
       "id": 7,
-      "title": "La polyvalence I",
+      "title": "Stand 7",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -108,29 +108,29 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "O9tnZEaEFn3gO8Lh"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "NYYqR7F3RVL45Npi"
     },
     {
       "id": 8,
-      "title": "Une photo pipou",
+      "title": "Stand 8",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "8.png"
+        "8bis.png"
       ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "PPwIn4ImPZWguajW"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "FcjCZaqMyVyPflVr"
     },
     {
       "id": 9,
-      "title": "BDARTC",
+      "title": "Stand 9",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -140,13 +140,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "5ek6KCSnpM5n2l6t"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "9dnpwPJZtXwvEGDy"
     },
     {
       "id": 10,
-      "title": "Le mur",
+      "title": "Stand 10",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -156,13 +156,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "e4IDwb1WQaGruSJa"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "2abQpRN54OYN8Euq"
     },
     {
       "id": 11,
-      "title": "Le surnom II",
+      "title": "Stand 11",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -172,13 +172,13 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "xGMufbQRRYEcZuyz"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "TdOXCMdfYOKj04SL"
     },
     {
       "id": 12,
-      "title": "Ratio + Pipou",
+      "title": "Stand 12",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
@@ -188,25 +188,217 @@
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "9fTa3sklA07Ed1oM"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "iiXUFd1T0JytCWFb"
     },
     {
       "id": 13,
-      "title": "Bonjour au revoir",
+      "title": "Stand 13",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "12.png"
+        "13.png"
       ],
       "hasQuestion": false,
       "question": "",
       "answers": [],
       "correctAnswer": 1,
-      "pointsMax": 10,
-      "pointsMin": 10,
-      "slug": "9fTa3sklA07Ed1oM"
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "Qzy0ednZD643fOdp"
+    },
+    {
+      "id": 14,
+      "title": "Stand 14",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "14.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "3Z02LQeXHfi7fLhM"
+    },
+    {
+      "id": 15,
+      "title": "Stand 15",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "15.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "X7bXeQj4JHvnGxmj"
+    },
+    {
+      "id": 16,
+      "title": "Stand 16",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "16.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "YTOuivMPorIUJDAt"
+    },
+    {
+      "id": 17,
+      "title": "Stand 17",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "17.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "kTqYF4RVns13BuS0"
+    },
+    {
+      "id": 18,
+      "title": "Stand 18",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "18.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "z0z6ddnOfFzOrfwB"
+    },
+    {
+      "id": 19,
+      "title": "Stand 19",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "19.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "nHHzi8txHBzdJqAP"
+    },
+    {
+      "id": 20,
+      "title": "Stand 20",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "2bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "oEPn9ENZokY7eUcJ"
+    },
+    {
+      "id": 21,
+      "title": "Stand 21",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "3bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "c6aoyFpXKtgD4BSX"
+    },
+    {
+      "id": 22,
+      "title": "Stand 22",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "5bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "XVy5ADapTUmxaaO3"
+    },
+    {
+      "id": 23,
+      "title": "Stand 23",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "7bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "nPbEhak32Z3uGDRs"
+    },
+    {
+      "id": 24,
+      "title": "Stand 24",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "10bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "8BeP4HNBZfw1uAvy"
+    },
+    {
+      "id": 25,
+      "title": "Stand 25",
+      "subtitle": "",
+      "hasImage": true,
+      "imagePath": [
+        "11bis.png"
+      ],
+      "hasQuestion": false,
+      "question": "",
+      "answers": [],
+      "correctAnswer": 1,
+      "pointsMax": 1,
+      "pointsMin": 1,
+      "slug": "czwvIWkEdQnfXmao"
     }
   ]
 }
