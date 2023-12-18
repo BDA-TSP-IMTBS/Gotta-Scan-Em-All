@@ -43,6 +43,10 @@ ou
 docker-compose up
 ```
 
+Si vous apportez des modifications à l'application, il faut rebuild l'application en la lancant : 
+```bash docker compose up --build
+```
+
 L'application est exposée sur le port **5000** de votre VM.
 
 ### Déploiement dans un cluster Kubernetes

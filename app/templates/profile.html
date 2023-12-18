@@ -8,7 +8,7 @@ content %}
     {% for i in img %} {% if items[i]["hasImage"] %} {% for src in
     items[i]["imagePath"] %}
     <figure>
-      <img src="{{url_for('static', filename='cards/apero/' + src)}}" />
+      <img src="{{url_for('static', filename='cards/pokemon/' + src)}}" />
     </figure>
     {% endfor %} {% endif %} {% endfor %}
   </div>
