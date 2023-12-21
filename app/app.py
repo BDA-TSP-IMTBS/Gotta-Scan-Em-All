@@ -149,7 +149,7 @@ def seeItem(slug):
         slugList = [item["slug"] for item in items]
         if slug in slugList:
             id = slugList.index(slug)
-
+            
             if session["inventory"][id] == "0":
                 # First time seeing the card
                 hasAlreadySeen = False

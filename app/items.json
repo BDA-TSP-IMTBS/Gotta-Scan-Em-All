@@ -2,11 +2,11 @@
   "items": [
     {
       "id": 1,
-      "title": "Stand 1",
+      "title": "Dragon magique",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "1.png"
+        "dragon.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -14,15 +14,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "5ytdHHuM2vYfhy0t"
+      "slug": "QPXaRTc5tk0m4fX4"
     },
     {
       "id": 2,
-      "title": "Stand 2",
+      "title": "Chouette",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "2.png"
+        "chouette.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -30,15 +30,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "JPZ3hyS9zjZMSoun"
+      "slug": "jQJXeqtLoqrz7Blo"
     },
     {
       "id": 3,
-      "title": "Stand 3",
+      "title": "Panneau routier",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "3.png"
+        "panneau-routier.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -46,15 +46,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "ASeHXrebVDuLhcO1"
+      "slug": "JMZK5RMMHkhzskiY"
     },
     {
       "id": 4,
-      "title": "Stand 4",
+      "title": "Drapeau Allemand",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "4.png"
+        "drapeau-allemagne.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -62,15 +62,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "OYvNoDczFturAJPV"
+      "slug": "Cl5vHpILeGOR5OHX"
     },
     {
       "id": 5,
-      "title": "Stand 5",
+      "title": "Machine à coudre",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "5.png"
+        "machine-a-coudre.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -78,15 +78,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "hp4RQwXCbL2rqPzo"
+      "slug": "bHktOhKvAq9Yn6Ig"
     },
     {
       "id": 6,
-      "title": "Stand 6",
+      "title": "Carte de No\u00ebl",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "6.png"
+        "carte-de-noel.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -94,15 +94,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "P6MIWwVVbmAU4QTO"
+      "slug": "x5pEBXlU3vtNttW2"
     },
     {
       "id": 7,
-      "title": "Stand 7",
+      "title": "Livre",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "7.png"
+        "livre.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -110,15 +110,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "YrMvur5e3SVJ9gI8"
+      "slug": "KL7yx8TYufbqkWgN"
     },
     {
       "id": 8,
-      "title": "Stand 8",
+      "title": "Gnome rouge",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "8bis.png"
+        "gnome-rouge.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -126,15 +126,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "xNFDARyoFBdNTKS3"
+      "slug": "kL2FHrHeTxHCo5uV"
     },
     {
       "id": 9,
-      "title": "Stand 9",
+      "title": "Drapeau Marocain",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "9.png"
+        "drapeau-maroc.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -142,15 +142,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "cYJ14cVeQeXhlrxn"
+      "slug": "hF1UzFQIlbVcPiTX"
     },
     {
       "id": 10,
-      "title": "Stand 10",
+      "title": "Poulpe",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "10.png"
+        "poulpe.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -158,15 +158,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "FB6z6eXlI06AKPzd"
+      "slug": "ytmD5NLFI73JZYs9"
     },
     {
       "id": 11,
-      "title": "Stand 11",
+      "title": "Casque",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "11.png"
+        "casque.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -174,15 +174,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "ImSxVQiKrkTOUwxs"
+      "slug": "wMzqDjnYq1LhPr6N"
     },
     {
       "id": 12,
-      "title": "Stand 12",
+      "title": "St\u00e9gosaure",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "12.png"
+        "stegosaure.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -190,15 +190,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "JROFkKooC9h2Vcmg"
+      "slug": "ZEiMer4IovtSwBS0"
     },
     {
       "id": 13,
-      "title": "Stand 13",
+      "title": "Affiche",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "13.png"
+        "affiche.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -206,15 +206,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "SPa6CUyVCNN7kuTQ"
+      "slug": "VqPogtGJ7xXdgtO3"
     },
     {
       "id": 14,
-      "title": "Stand 14",
+      "title": "Pot en feuilles de bananier",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "14.png"
+        "pot-tresse.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -222,15 +222,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "9brxzRuxnNni168i"
+      "slug": "pYfTpQz2FNVk9gqv"
     },
     {
       "id": 15,
-      "title": "Stand 15",
+      "title": "Vache",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "15.png"
+        "vache.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -238,15 +238,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "jthf1xlj2waLWpnn"
+      "slug": "q0XlxGMAnYXO57iI"
     },
     {
       "id": 16,
-      "title": "Stand 16",
+      "title": "Trophée",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "16.png"
+        "trophee.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -254,15 +254,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "d5bhLzUIa0rW96G1"
+      "slug": "wmUPTdA0AF2S02sA"
     },
     {
       "id": 17,
-      "title": "Stand 17",
+      "title": "Arrosoire",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "17.png"
+        "arrosoire.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -270,15 +270,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "slCmjYtZh9FVCste"
+      "slug": "P3DIWhBn0r7Se5ZH"
     },
     {
       "id": 18,
-      "title": "Stand 18",
+      "title": "Cadre photo",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "18.png"
+        "cadre-photo.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -286,15 +286,15 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "1x6hVbCQ2YFMz12g"
+      "slug": "sfcuY2d6vQXsh9dl"
     },
     {
       "id": 19,
-      "title": "Stand 19",
+      "title": "Etoile de sapin",
       "subtitle": "",
       "hasImage": true,
       "imagePath": [
-        "19.png"
+        "etoile-de-sapin.png"
       ],
       "hasQuestion": false,
       "question": "",
@@ -302,103 +302,7 @@
       "correctAnswer": 1,
       "pointsMax": 1,
       "pointsMin": 1,
-      "slug": "Ox4WET6ZMj9JT2cl"
-    },
-    {
-      "id": 20,
-      "title": "Stand 20",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "2bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "q8fDUlrwu1CvBq5J"
-    },
-    {
-      "id": 21,
-      "title": "Stand 21",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "3bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "0E6FqbAjGzls9URs"
-    },
-    {
-      "id": 22,
-      "title": "Stand 22",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "5bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "lJlrHVaqd31Yw4zY"
-    },
-    {
-      "id": 23,
-      "title": "Stand 23",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "7bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "YqpLIUp8NU8knlzT"
-    },
-    {
-      "id": 24,
-      "title": "Stand 24",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "10bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "eBNl1FIO7At2LbAV"
-    },
-    {
-      "id": 25,
-      "title": "Stand 25",
-      "subtitle": "",
-      "hasImage": true,
-      "imagePath": [
-        "11bis.png"
-      ],
-      "hasQuestion": false,
-      "question": "",
-      "answers": [],
-      "correctAnswer": 1,
-      "pointsMax": 1,
-      "pointsMin": 1,
-      "slug": "P6otlbVOkQdhsPfk"
+      "slug": "2WvuY5GFrtPjMOfs"
     }
   ]
 }

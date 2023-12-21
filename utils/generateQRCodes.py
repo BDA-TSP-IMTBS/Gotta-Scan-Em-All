@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw
 
 # This program generates QR codes from slugs
 
-DEFAULT_URL = "http://marchedenoel-bda-tmsp.h.minet.net:5000"
+DEFAULT_URL = "http://marchedenoel-bda-tmsp.h.minet.net:5000/"
 
 with open("../app/items.json", "r") as f:
   data = json.load(f)
