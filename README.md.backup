@@ -1,11 +1,19 @@
 # Gotta Scan 'Em All
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white")
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white")
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-Goota Scan 'Em All est une application web qui permet d'organiser des chasses au QR codes thématisée. Elle a été créée en 2022 par le pôle web du BDA du campus TSP/IMTBS.
+<span>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</span>
+<span>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</span>
+<span>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+<span>
+<img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+</span>
+ 
+Goot San 'Em All est une application web qui permet d'organiser des chasses au QR codes thématisée. Elle a été créée en 2022 par le pôle web du BDA du campus TSP/IMTBS.
 
 ## Installation
 
@@ -23,7 +31,7 @@ Il vous faut installer `docker compose` dans votre VM. Vous pouvez utiliser les 
  sudo sh get-docker.sh
 ```
 
-Ensuite, clonez le repository où vous le souhaitez dans la machine
+Ensuite, clonez le repository où vous le souhaitez dans la machine. Déplacez vous dans le dossier racine du projet puis lancez selon votre installation :
 
 ```bash
 docker compose up
@@ -35,8 +43,7 @@ ou
 docker-compose up
 ```
 
-Si vous apportez des modifications à l'application, il faut rebuild l'application en la lancant : \
-
+Si vous apportez des modifications à l'application, il faut rebuild l'application en la lancant : 
 ```bash
 docker compose up --build
 ```
@@ -83,7 +90,6 @@ Dans cette chasse aux QR Code, un code correspond à un item. Cet item peut êtr
 - `subtitle` : sous-titre de l'objet [non implémenté]
 - `hasImage` : boolean caractérisant la présence d'une illustration
 - `imagePath` : tableau vers une liste de chemins relatifs vers les images qui doivent s'afficher lors d'un scan. Pour changer la base du chemin relatif, il suffit de la modifier dans le fichier `./app/templates/item.html` :
-
   ```jinja
   ...
   <figure>                                      BASE     imagePath
@@ -91,7 +97,6 @@ Dans cette chasse aux QR Code, un code correspond à un item. Cet item peut êtr
   </figure>
   ...
   ```
-
 - `hasQuestion`: [non implémenté]
 - `question` : [non implémenté]
 - `answers` : [non implémenté]
